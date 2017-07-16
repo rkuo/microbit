@@ -19,7 +19,6 @@ More introduction from [wikipedia](https://en.wikipedia.org/wiki/Micro_Bit) and
 There are several development board in the same spec (edge connector) as BBC micro:bit. 
 
 ### Board
-
 * BBC micro:bit
 [Microbit main website](http://microbit.org/)
 
